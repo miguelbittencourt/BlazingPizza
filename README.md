@@ -1,3 +1,6 @@
+# Resumo
+
+Um app Blazor de uma pizzaria fictícia com listagem de pizzas, criação de ordens de pedido e acompanhamento de pedidos, usando apenas HTML, CSS e C#, consumindo APIs internas com razor pages, trabalhando também com roteamento e layouts das páginas. Projeto realizado pela trilha sobre Blazor do Microsoft Learn
 
 # Contributing
 
